@@ -26,6 +26,10 @@ do executavel.
    - Label (Caixa): ex `Caixa 01`
 4. Clique em **Ativar dispositivo** e acompanhe o log.
 
+## Screenshot
+
+![Tela de ativacao](screenshots/app.png)
+
 ## Exemplo de uso (API)
 
 Rota usada pela aplicacao:
