@@ -20,14 +20,14 @@ object Form1: TForm1
     Width = 360
     Height = 72
     Align = alTop
-    Color = clTeal
+    Color = 26367
     TabOrder = 0
     object shHeaderCircle: TShape
       Left = 252
       Top = -48
       Width = 160
       Height = 160
-      Brush.Color = clAqua
+      Brush.Color = 4210752
       Pen.Style = psClear
       Shape = stCircle
     end
@@ -72,7 +72,7 @@ object Form1: TForm1
     Top = 96
     Width = 4
     Height = 224
-    Brush.Color = clTeal
+    Brush.Color = 26367
     Pen.Style = psClear
   end
   object shLogCard: TShape
@@ -89,7 +89,7 @@ object Form1: TForm1
     Top = 344
     Width = 4
     Height = 256
-    Brush.Color = clTeal
+    Brush.Color = 26367
     Pen.Style = psClear
   end
   object lblBaseUrl: TLabel
@@ -138,7 +138,7 @@ object Form1: TForm1
     Height = 13
     Caption = 'Log'
     Font.Charset = DEFAULT_CHARSET
-    Font.Color = clTeal
+    Font.Color = 26367
     Font.Height = -11
     Font.Name = 'Tahoma'
     Font.Style = [fsBold]
@@ -231,7 +231,7 @@ object Form1: TForm1
     Anchors = [akLeft, akTop, akRight]
     Caption = 'Ativar dispositivo'
     Font.Charset = DEFAULT_CHARSET
-    Font.Color = clWhite
+    Font.Color = clBlack
     Font.Height = -12
     Font.Name = 'Tahoma'
     Font.Style = [fsBold]
