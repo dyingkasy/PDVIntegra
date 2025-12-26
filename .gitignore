@@ -1,0 +1,29 @@
+# Delphi / RAD Studio
+__history/
+*.dcu
+*.dsk
+*.dproj.local
+*.identcache
+*.local
+*.stat
+*.skincfg
+*.tds
+*.map
+*.rsm
+*.drc
+*.exe
+*.dll
+*.bpl
+*.dcp
+*.~*
+*.bak
+*.tmp
+
+# Build output
+Win32/Debug/
+Win32/Release/
+Win64/Debug/
+Win64/Release/
+
+# User-specific
+*.ini
